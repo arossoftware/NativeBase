@@ -30,8 +30,8 @@
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
-    "@codler/react-native-keyboard-aware-scroll-view": "1.0.1",
-    "@react-native-community/datetimepicker": "^3.0.2",
+    "@codler/react-native-keyboard-aware-scroll-view": "2.0.1",
+    "@react-native-community/datetimepicker": "^5.1.0",
     "@react-native-picker/picker": "^2.5.0",
     "blueimp-md5": "^2.5.0",
     "clamp": "^1.0.1",
